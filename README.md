@@ -11,3 +11,7 @@ Multi-distractor Generation: The system not only generates questions but also cr
 NLP-Powered Question Summarization: It utilizes the T5 model for text summarization, ensuring accurate question generation.
 
 User-Friendly Interface: IntelliGen boasts an intuitive Gradio interface, allowing users to input content and select taxonomy levels effortlessly.
+
+
+
+
